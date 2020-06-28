@@ -1,0 +1,60 @@
+#s-d7516728-67a9-4a1f-9cfe-584cbbec4090 #s-Header-bg {
+  -ms-transform: rotate(0.0deg);
+}
+#s-d7516728-67a9-4a1f-9cfe-584cbbec4090 #s-Toolbar-Title {
+  -ms-transform: rotate(0.0deg);
+}
+#s-d7516728-67a9-4a1f-9cfe-584cbbec4090 #s-Status-bg {
+  -ms-transform: rotate(0.0deg);
+}
+#s-d7516728-67a9-4a1f-9cfe-584cbbec4090 #s-Time {
+  -ms-transform: rotate(0.0deg);
+}
+#s-d7516728-67a9-4a1f-9cfe-584cbbec4090 #s-Signal-icon {
+  -ms-transform: rotate(0.0deg);
+}
+#s-d7516728-67a9-4a1f-9cfe-584cbbec4090 #s-Image_1 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-d7516728-67a9-4a1f-9cfe-584cbbec4090 #s-Category_1-options {
+  background-color: #FFFFFF;
+}
+#s-d7516728-67a9-4a1f-9cfe-584cbbec4090 #s-Category_2-options {
+  background-color: #FFFFFF;
+}
+#s-d7516728-67a9-4a1f-9cfe-584cbbec4090 #s-Category_3-options {
+  background-color: #FFFFFF;
+}
+#s-d7516728-67a9-4a1f-9cfe-584cbbec4090 #s-Rectangle_6 {
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #404040;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: #404040;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #404040;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: #404040;
+  border-radius: 7px 7px 7px 7px;
+  -ms-transform: rotate(0.0deg);
+}
+#s-d7516728-67a9-4a1f-9cfe-584cbbec4090 #s-Image_2 {
+  -ms-transform: rotate(0.0deg);
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-d7516728-67a9-4a1f-9cfe-584cbbec4090 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
